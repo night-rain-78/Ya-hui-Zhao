@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-	printf("hello world!±‡≥Ã”Ô—‘");
+	printf("hello world!‰∏≠Êñá");
 	return 0;
 }
